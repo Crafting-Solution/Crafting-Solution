@@ -17,8 +17,18 @@ My name is Augustus Ejike</h1>
 - 😄 Pronouns: ...!
 
 <h4>My Crafts</h4>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="Profile Banner" height="50px" width="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Profile Banner" height="50px" width="50px"/>
+
+<div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="Profile Banner" height="50px" width="50px"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Profile Banner" height="50px" width="50px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Profile Banner" height="50px" width="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Profile Banner" height="50px" width="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Profile Banner" height="50px" width="50px"/>
