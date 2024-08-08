@@ -1,12 +1,12 @@
 <center>
+<img src="https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg" alt="Profile Banner" height="500px" width="400px"/>
+
 <h1>Hello there! 👋  <br> 
 My name is Augustus Ejike</h1>
 
-<img src="https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg" alt="Profile Banner" height="500px" width="400px"/>
-
 <h3>Full-Stack Software Engineer</h3>
-
-Here are some ideas to get you started:
+<br>
+<h4> What I Do: </h4>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...!
 
-- ⚡ Fun fact: ...
--->
+<h4>My Crafts</h4>
+
 
 </center>
