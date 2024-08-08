@@ -22,7 +22,7 @@ My name is Augustus Ejike</h1>
   <table>
     <tr>
       <td>
-        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="Profile Banner" height="50px" width="50px"/>
+        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="Profile Banner" height="60px" width="60px"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Profile Banner" height="50px" width="50px"/>
       </td>
     </tr>
