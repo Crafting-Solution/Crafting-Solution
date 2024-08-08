@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Augustus Ejike
 
-![Profile Banner](https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpg)
+![Profile Banner](https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg)
 <!--
 **Crafting-Solution/Crafting-Solution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
