@@ -1,8 +1,10 @@
-## Hi there 👋 My name is Augustus Ejike
+<center>
+<h1>Hello there! 👋  <br> 
+My name is Augustus Ejike</h1>
 
-![Profile Banner](https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg)
-<!--
-**Crafting-Solution/Crafting-Solution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg" alt="Profile Banner" height="500px" width="400px"/>
+
+<h3>Full-Stack Software Engineer</h3>
 
 Here are some ideas to get you started:
 
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+
+</center>
