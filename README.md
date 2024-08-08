@@ -1,5 +1,7 @@
 ## Hi there 👋 My name is Augustus Ejike
 
+![Profile Banner](WhatsApp Image 2024-03-22 at 14.43.50.jpeg)
+
 <!--
 **Crafting-Solution/Crafting-Solution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
