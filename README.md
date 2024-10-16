@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg" alt="Profile Banner" height="500px" width="400px"/>
+<img src="https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg" alt="Profile Banner" height="500px" width="800px"/>
 
 <h1>Hello there! 👋  <br> 
 My name is Augustus Ejike</h1>
@@ -22,7 +22,7 @@ My name is Augustus Ejike</h1>
   <table>
     <tr>
       <td>
-        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="Profile Banner" height="60px" width="100px"/>
+        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="Profile Banner" height="60px" width="60px"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Profile Banner" height="50px" width="50px"/>
       </td>
     </tr>
