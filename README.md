@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg" alt="Profile Banner" height="700px" width="800px"/>
+<img src="https://github.com/Crafting-Solution/Crafting-Solution/blob/8c6199ec8f38e1e5bafa1f83f21860219819ab05/WhatsApp%20Image%202024-03-22%20at%2014.43.50.jpeg" alt="Profile Banner" height="700px" width="700px"/>
 
 <h1>Hello there! 👋  <br> 
 My name is Augustus Ejike</h1>
